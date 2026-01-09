@@ -8,7 +8,7 @@ For this project, churn is defined as a customer who has not placed an order wit
 ## Data Preparation 
 - Analysis is limited to delivered orders only.
 - Data was aggregated to a customer-level table using MySQL.
-- Each row represents a sinal customer with behavioral features such as order count, revenue, review score, and delivery performance.
+- Each row represents a single customer with behavioral features such as order count, revenue, review score, and delivery performance.
 - The resulting dataset was exported and analyzed in Python using Pandas.
 
 --- 
@@ -44,7 +44,7 @@ Most customers place only a single order, meaning spend-based metrics primarily 
 
 ---
 
-### 4. Order frequency offers limiteed insight
+### 4. Order frequency offers limited insight
 Order counts are nearly identical between churned and active customers, reinforcing that this marketplace is dominated by one-time buyers. 
 
 Retention challenges appear driven more by experience quality than purchasing volume. 
