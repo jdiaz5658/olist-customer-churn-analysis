@@ -22,4 +22,8 @@ This project analyzes customer behavior to identify signals associated with chur
 1. Run SQL scripts in the sql folder to create customer-level features.
 2. Export results to the data folder.
 3. Run Python notebooks in the notebooks folder.
-4. Review findings in the docs folder. 
+4. Review findings in the docs folder.
+
+## Related Projects 
+- SQL Business Analysis: https://github.com/jldiazjr94/olist-sql-business-analysis
+- Marketplace Performance Dashboard: https://github.com/jldiazjr94/olist-marketplace-dashboard
